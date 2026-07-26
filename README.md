@@ -6,10 +6,10 @@
   <br />
 
   <!-- Ijtimoiy tarmoq tugmalari -->
-  <a href="https://t.me/Uzb_Kino_film">
+  <a href="https://t.me/axted">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://youtube.com">
+  <a href="[https://youtube.com](https://www.youtube.com/@axted)">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </div>
