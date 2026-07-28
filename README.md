@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="https://yt3.googleusercontent.com/yZd-CuaMvxTiSKCEk7z5ac05XaHPY7Md5Cqk0L7Q6MX363nUc_7qhYFuQ0Ih1BBTjYBOVXsS8w=s900-c-k-c0x00ffffff-no-rj" alt="Banner" width="100%" />
-
 ## 📌 About Me
 - 🌱 I'm currently learning...
 - AI Integration in Laravel Applications
